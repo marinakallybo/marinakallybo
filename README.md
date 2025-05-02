@@ -2,20 +2,19 @@
 
 I am a young woman passionate about programming. Day after day I am improving my skills.
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/marinakallybo">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marinakallybo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/marinakallybo">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinakallybo&layout=compact&langs_count=6&theme=tokyonight"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=marinakallybo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=marinakallybo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=marinakallybo&theme=tokyonight&show_icons=true" />
+</picture>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinakallybo&layout=compact)
 
 <div align="center">
   <h2 style="margin-bottom: 10px;"><strong>My programming languages</strong></h2>
@@ -35,9 +34,9 @@ I am a young woman passionate about programming. Day after day I am improving my
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marinakallybo/marinakallybo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marinakallybo/marinakallybo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/marinakallybo/marinakallybo/output/github-snake.svg" />
 </picture>
 
 ##
