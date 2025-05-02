@@ -2,6 +2,7 @@
 
 I am a young woman passionate about programming. Day after day I am improving my skills.
 
+
 ## **Github Statistics**
 <a href="https://github.com/marinakallybo/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marinakallybo&rank_icon=github&include_all_commits=true&show_icons=true&theme=aura" />
@@ -14,7 +15,7 @@ I am a young woman passionate about programming. Day after day I am improving my
 ##
 <div align="center>
   
-<img src="https://raw.githubusercontent.com/SilasPires/silaspires/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/marinakallybo/marinakallybo/output/snake.svg" alt="Snake animation" />
   
 </div>
 
