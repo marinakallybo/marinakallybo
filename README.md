@@ -7,7 +7,7 @@ I am a young woman passionate about programming. Day after day I am improving my
 </a>
 
 <a href="https://github.com/marinakallybo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinakallybo&layout=donut&line_height=27&theme=tokyonight"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinakallybo&layout=donut&line_height=27&hide_border=true&theme=tokyonight"/>
 </a>
 
 <div align="center">
