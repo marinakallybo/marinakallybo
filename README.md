@@ -3,7 +3,7 @@
 I am a young woman passionate about programming. Day after day I am improving my skills.
 
 <a href="https://github.com/marinakallybo">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=marinakallybo&count_private=true&show_icons=true&theme=tokyonight&line_height=27&hide_border=true" alt="**Marina Kally** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=marinakallybo&count_private=true&show_icons=true&theme=tokyonight&line_height=27&hide_border=true&include_all_commits=true&rank_icon=github" alt="**Marina Kally** github stats"/>
 </a>
 
 <a href="https://github.com/marinakallybo">
