@@ -2,19 +2,13 @@
 
 I am a young woman passionate about programming. Day after day I am improving my skills.
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=marinakallybo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=marinakallybo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=marinakallybo&theme=tokyonight&show_icons=true" />
-</picture>
+<a href="https://github.com/marinakallybo">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=marinakallybo&count_private=true&show_icons=true&theme=tokyonight&line_height=27&hide_border=true" alt="**Marina Kally** github stats"/>
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinakallybo&layout=compact)
+<a href="https://github.com/marinakallybo">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinakallybo&layout=donut&line_height=27&theme=tokyonight"/>
+</a>
 
 <div align="center">
   <h2 style="margin-bottom: 10px;"><strong>My programming languages</strong></h2>
