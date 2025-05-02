@@ -31,13 +31,9 @@ I am a young woman passionate about programming. Day after day I am improving my
 </div>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marinakallybo/marinakallybo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marinakallybo/marinakallybo/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/marinakallybo/marinakallybo/output/github-snake.svg" />
-</picture>
-
 ##
+
+<p align="center"><strong><span style="font-size: 20px;"> Contact me </span></strong></p>
 <div align=center> 
   <a href="https://www.instagram.com/marinakallyb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:marinakally@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
