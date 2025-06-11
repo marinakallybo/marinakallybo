@@ -1,14 +1,9 @@
 ## Hi, I'm Marina Kally!
 
-I am a young woman passionate about programming.
-
-<a href="https://github.com/marinakallybo">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=marinakallybo&count_private=true&show_icons=true&theme=tokyonight&line_height=27&hide_border=true&include_all_commits=true&rank_icon=github" alt="**Marina Kally** github stats"/>
-</a>
-
-<a href="https://github.com/marinakallybo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinakallybo&layout=donut&line_height=27&hide_border=true&theme=tokyonight"/>
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marinakallybo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=false&" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marinakallybo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ##
 
