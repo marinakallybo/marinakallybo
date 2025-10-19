@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marinakallybo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=false&custom_title=Estat%C3%ADstica%20de%20Marina%20Kally" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marinakallybo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinakallybo&layout=compact&locale=pt-br&hide_title=false&layout=compact&card_width=320&&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinakallybo)](https://github.com/marinakallybo/github-readme-stats)
