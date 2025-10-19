@@ -6,6 +6,7 @@
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinakallybo)](https://github.com/marinakallybo/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinakallybo&layout=compact)
 
 ##
 
