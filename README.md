@@ -5,6 +5,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marinakallybo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinakallybo)](https://github.com/marinakallybo/github-readme-stats)
+
 ##
 
 <p align="center"><strong><span style="font-size: 20px;">My programming languages</span></strong></p>
