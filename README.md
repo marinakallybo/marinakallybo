@@ -1,4 +1,7 @@
-<h2 align="center">Sejam Bem Vindos ao meu Github!</h2>
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Marina%20Kally&fontSize=90&animation=fadeIn&fontAlignY=40&desc=Transformando%20café%20em%20código...%&descAlignY=55&descAlign=57"/>
+</p>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marinakallybo&hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=false&custom_title=Estat%C3%ADsticas" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marinakallybo&locale=pt-br&hide_title=false&layout=compact&card_width=320&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
