@@ -7,8 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marinakallybo&locale=pt-br&hide_title=false&layout=compact&card_width=320&count_private=true&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-##
-
 
 ##
 
