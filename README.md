@@ -2,7 +2,13 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Marina%20Kally&fontSize=90&animation=fadeIn&fontAlignY=40&desc=Transformando%20café%20em%20código...%&descAlignY=55&descAlign=58"/>
 </p>
 
+## 👩‍💻 Sobre mim
 
+Técnica em Redes de Computadores pelo IFSP e estudante de Análise e Desenvolvimento de Sistemas.
+
+Atualmente atuo com automação de atendimentos e desenvolvimento de Agentes Digitais utilizando JavaScript e Inteligência Artificial. Também possuo experiência com suporte Linux, monitoramento de infraestrutura e troubleshooting em ambientes corporativos.
+
+Tenho grande interesse em Inteligência Artificial, Machine Learning, automação e desenvolvimento back-end.
 
 ##
 
