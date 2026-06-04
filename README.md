@@ -1,14 +1,43 @@
-<p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Marina%20Kally&fontSize=75&animation=fadeIn&fontAlignY=40&desc=Transformando%20café%20em%20código...&descAlignY=55&descAlign=58"/>
-</p>
+<!-- ===================== HEADER BANNER ===================== -->
 
-## 👩‍💻 Sobre mim
+<div align="center">
 
-Técnica em Redes de Computadores pelo IFSP e estudante de Análise e Desenvolvimento de Sistemas.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0077B5&height=240&section=header&text=Marina%20Kally&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%E2%80%A2%20Python%20%E2%80%A2%20IA%20%E2%80%A2%20Backend&descAlignY=58&descSize=18" width="100%" />
 
-Atualmente atuo com automação de atendimentos e desenvolvimento de Agentes Digitais utilizando JavaScript e Inteligência Artificial. Também possuo experiência com suporte Linux, monitoramento de infraestrutura e troubleshooting em ambientes corporativos.
 
-Tenho grande interesse em Inteligência Artificial, Machine Learning, automação e desenvolvimento back-end, áreas nas quais busco evoluir constantemente por meio de estudos, projetos e novas experiências.
+</div>
+
+<!-- ===================== TYPING ANIMATION ===================== -->
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=620&lines=Building+intelligent+systems+with+Python;AI,+automation+and+problem+solving;Always+learning+something+new...)](https://git.io/typing-svg)
+
+
+</div>
+
+<br/>
+
+-----
+
+## 👨‍💻 Sobre Mim
+
+```python
+class MarinaKally:
+    def __init__(self):
+        self.role        = "AI Development Intern"
+        self.location    = "São Paulo, SP — Brasil 🇧🇷"
+        self.education   = "Systems Analysis & Development @ IFSP"
+        self.stack       = ["Python", "MySQL", "AWS Cloud", "Git"]
+        self.learning    = ["AWS Cloud Practitioner", "Boas práticas de SE"]
+        self.fun_fact    = "Aprendo construindo coisas reais 🚀"
+
+    def say_hi(self):
+        print("Obrigado por passar por aqui! Vamos conectar?")
+
+me = MatheusEduardo()
+me.say_hi()
+```
 
 ---
 
