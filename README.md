@@ -1,78 +1,102 @@
-<!-- ===================== HEADER BANNER ===================== -->
+<!-- ===================== HEADER ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0077B5&height=240&section=header&text=Marina%20Kally&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%E2%80%A2%20Python%20%E2%80%A2%20IA%20%E2%80%A2%20Backend&descAlignY=58&descSize=18" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00D4FF&height=240&section=header&text=Marina%20Kally&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Development%20%E2%80%A2%20Python%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Backend&descAlignY=58&descSize=18" width="100%" />
 
 </div>
 
-<!-- ===================== TYPING ANIMATION ===================== -->
+<!-- ===================== TYPING ===================== -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=620&lines=Building+intelligent+systems+with+Python;AI,+automation+and+problem+solving;Always+learning+something+new...)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&duration=3000\&pause=800\&color=00D4FF\&center=true\&vCenter=true\&width=700\&lines=AI+Development+Intern+%40+2CX;Systems+Analysis+%26+Development+%40+IFSP;Building+intelligent+systems+with+Python;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
-
-<br/>
-
------
-
-## 👨‍💻 Sobre Mim
-
-```python
-class MarinaKally:
-    def __init__(self):
-        self.role        = "AI Development Intern"
-        self.location    = "São Paulo, SP — Brasil 🇧🇷"
-        self.education   = "Systems Analysis & Development @ IFSP"
-        self.stack       = ["Python", "MySQL", "AWS Cloud", "Git"]
-        self.learning    = ["AWS Cloud Practitioner", "Boas práticas de SE"]
-        self.fun_fact    = "Aprendo construindo coisas reais 🚀"
-
-    def say_hi(self):
-        print("Obrigado por passar por aqui! Vamos conectar?")
-
-me = MatheusEduardo()
-me.say_hi()
-```
 
 ---
 
-## 🚀 Tecnologias
+## 👩‍💻 About Me
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+```python
+class MarinaKally:
+
+    def __init__(self):
+        self.role = "AI Development Intern"
+        self.location = "São Paulo, BR 🇧🇷"
+        self.education = "ADS @ IFSP"
+        self.stack = [
+            "Python",
+            "JavaScript",
+            "Linux",
+            "MySQL"
+        ]
+        self.learning = [
+            "Machine Learning",
+            "Backend Development",
+            "Artificial Intelligence"
+        ]
+        self.fun_fact = "Learning by building real things 🚀"
+
+
+    def say_hi(self):
+        print("Thanks for stopping by!")
+
+me = MarinaKally()
+me.say_hi()
+```
+
+> 🤖 **Working with** AI Digital Agents, automation and logical workflows
+> 🌱 **Currently learning** Machine Learning and Backend Development
+> 💡 **Philosophy:** solving real-world problems with technology
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,linux,mysql,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+    <div align="center">
+      <img
+        height="180"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iswb04&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
+      />
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img
+        height="180"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Iswb04&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
+      />
+    </div>
 </p>
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
-<p align="center">Me encontre nas redes abaixo 👇</p>
+<div align="center">
 
-<div align="center"> 
-  <a href="https://www.instagram.com/marinakallyb/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+<a href="mailto:marinakally@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-  <a href="mailto:marinakally@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<a href="https://www.linkedin.com/in/marina-kally-695535252/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-  <a href="https://www.linkedin.com/in/marina-kally-695535252/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
 </div>
 
 ---
+
+## 🐍 Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marinakallybo/marinakallybo/output/github-contribution-grid-snake-dark.svg">
