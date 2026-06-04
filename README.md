@@ -36,7 +36,6 @@ class MarinaKally:
             "Backend Development",
             "Artificial Intelligence"
         ]
-        self.fun_fact = "Learning by building real things 🚀"
 
 
     def say_hi(self):
@@ -48,7 +47,6 @@ me.say_hi()
 
 > 🤖 **Working with** AI Digital Agents, automation and logical workflows
 > 🌱 **Currently learning** Machine Learning and Backend Development
-> 💡 **Philosophy:** solving real-world problems with technology
 
 ---
 
