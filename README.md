@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&duration=3000\&pause=800\&color=00D4FF\&center=true\&vCenter=true\&width=700\&lines=AI+Development+Intern+%40+2CX;Systems+Analysis+%26+Development+%40+IFSP;Building+intelligent+systems+with+Python;Always+learning+something+new...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&duration=3000\&pause=800\&color=86bcdc\&center=true\&vCenter=true\&width=700\&lines=AI+Development+Intern+%40+2CX;Systems+Analysis+%26+Development+%40+IFSP;Building+intelligent+systems+with+Python;Always+learning+something+new...)](https://git.io/typing-svg)
 
 </div>
 
