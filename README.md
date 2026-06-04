@@ -47,7 +47,6 @@ me.say_hi()
 > 🤖 **Working with** AI Digital Agents, automation and logical workflows
 > 🌱 **Currently learning** Machine Learning and Backend Development
 
----
 
 ## 🚀 Tech Stack
 
@@ -84,7 +83,6 @@ me.say_hi()
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marinakallybo/marinakallybo/output/github-contribution-grid-snake.svg">
 </picture>
 
----
 
 ## 📫 Contact
 
