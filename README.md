@@ -24,7 +24,6 @@ class MarinaKally:
     def __init__(self):
         self.role = "AI Development Intern"
         self.location = "São Paulo, BR 🇧🇷"
-        self.education = "ADS @ IFSP"
         self.stack = [
             "Python",
             "JavaScript",
@@ -65,12 +64,12 @@ me.say_hi()
 <p>
     <div align="center">
       <img
-        height="180"
+        height="160"
         src="https://github-readme-stats-sigma-five.vercel.app/api?username=marinakallybo&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
       />
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img
-        height="180"
+        height="160"
         src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marinakallybo&layout=compact&custom_title=Technologies&langs_count=9&theme=react"
       />
     </div>
