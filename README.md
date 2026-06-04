@@ -66,12 +66,12 @@ me.say_hi()
     <div align="center">
       <img
         height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iswb04&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=marinakallybo&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
       />
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img
         height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Iswb04&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marinakallybo&layout=compact&custom_title=Technologies&langs_count=9&theme=react"
       />
     </div>
 </p>
