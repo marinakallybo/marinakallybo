@@ -14,7 +14,6 @@
 
 </div>
 
----
 
 ## 👩‍💻 About Me
 
@@ -47,6 +46,8 @@ me.say_hi()
 > 🤖 **Working with** AI Digital Agents, automation and logical workflows
 > 🌱 **Currently learning** Machine Learning and Backend Development
 
+---
+
 
 ## 🚀 Tech Stack
 
@@ -56,7 +57,6 @@ me.say_hi()
 
 </div>
 
----
 
 ## 📊 GitHub Stats
 
