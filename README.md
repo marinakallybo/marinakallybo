@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a0000&height=240&section=header&text=Marina%20Kally&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Development%20%E2%80%A2%20Python%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Backend&descAlignY=58&descSize=18&stroke=FF2D2D&strokeWidth=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:4a0000&height=240&section=header&text=Marina%20Kally&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Development%20%E2%80%A2%20Python%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Backend&descAlignY=58&descSize=18" width="100%" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&duration=3000\&pause=800\&color=FF2D2D\&center=true\&vCenter=true\&width=700\&lines=AI+Development+Intern+%40+2CX;Systems+Analysis+%26+Development+%40+IFSP;Building+intelligent+systems+with+Python;Always+learning+something+new...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=550\&size=22\&duration=3000\&pause=800\&color=FF8080\&center=true\&vCenter=true\&width=700\&lines=AI+Development+Intern+%40+2CX;Systems+Analysis+%26+Development+%40+IFSP;Building+intelligent+systems+with+Python;Always+learning+something+new...)](https://git.io/typing-svg)
 
 </div>
 
