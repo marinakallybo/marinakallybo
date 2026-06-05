@@ -81,7 +81,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Myoui-sys&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=marinakallybo&theme=tokyonight&hide_border=true"/>
 
 </div>
 
