@@ -36,11 +36,7 @@ class MarinaKally:
         ]
 
 
-    def say_hi(self):
-        print("Thanks for stopping by!")
-
 me = MarinaKally()
-me.say_hi()
 ```
 
 > 🤖 **Working with** AI Digital Agents, automation and logical workflows
