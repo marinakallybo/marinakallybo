@@ -63,9 +63,9 @@ me = MarinaKally()
 
 <br/>
 
-| 🧠 **Machine Learning** | 👁️ **Computer Vision** | ⚙️ **Python Automation** |
+| 🧠 **Machine Learning** | 🌐 **Web & Data** | ⚙️ **Python Automation** |
 |---|---|---|
-| Linear Regression, Feature Engineering, predictive modeling, data processing and analysis with scikit-learn and Pandas. | Real-time hand landmark detection, gesture recognition, mouse control via OpenCV and MediaPipe. | GUI apps with Tkinter, interactive web apps with Streamlit, process automation and scripted workflows. |
+| Linear Regression, Feature Engineering, predictive modeling and data processing with scikit-learn and Pandas. | HTML, CSS, JavaScript, MySQL, Streamlit and interactive web interfaces. | Scripted workflows, process automation, GitHub Actions and Linux environment. |
 
 ---
 
