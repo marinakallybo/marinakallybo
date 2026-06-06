@@ -78,12 +78,12 @@ me = MarinaKally()
     <div align="center">
       <img
         height="160"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=marinakallybo&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=marinakallybo&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" alt="GitHub stats"
       />
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img
         height="160"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marinakallybo&layout=compact&custom_title=Technologies&langs_count=9&theme=react"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marinakallybo&layout=compact&custom_title=Technologies&langs_count=9&theme=dark" alt="Top languages"
       />
     </div>
 </p>
