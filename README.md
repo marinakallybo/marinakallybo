@@ -95,4 +95,4 @@ me = MarinaKally()
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marinakallybo/marinakallybo/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:2e6393&height=100&section=footer" width="100%" />
