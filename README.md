@@ -60,6 +60,7 @@ me = MarinaKally()
 ![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-%230d1117.svg?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Linux](https://img.shields.io/badge/LINUX-%230d1117.svg?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![MySQL](https://img.shields.io/badge/MYSQL-%230d1117.svg?style=for-the-badge&logo=mysql&logoColor=4FC3F7)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%230d1117.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 </div>
 
@@ -96,3 +97,5 @@ me = MarinaKally()
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marinakallybo/marinakallybo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marinakallybo/marinakallybo/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=100&section=footer" width="100%" />
