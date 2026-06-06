@@ -30,15 +30,15 @@
 class MarinaKally:
     def __init__(self):
         self.location  = "São Paulo, BR 🇧🇷"
-        self.focus     = ["Machine Learning", "Computer Vision", "Python Automation"]
-        self.stack     = ["Python", "scikit-learn", "OpenCV", "Streamlit", "Tkinter"]
+        self.focus     = ["Machine Learning", "Python Automation", "Web Development"]
+        self.stack     = ["Python", "scikit-learn", "Pandas", "Streamlit", "JavaScript"]
         self.currently = "Building ML models and automating real-world processes"
-        self.next      = [ "Process automation", "Deep Learning"]
+        self.next      = ["Process automation", "Deep Learning"]
 
 me = MarinaKally()
 ```
 
-> 🧠 **Working with** ML models, computer vision pipelines and interactive Python apps   
+> 🧠 **Working with** ML models, Python automation and interactive web apps
 
 ---
 
