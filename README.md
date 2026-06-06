@@ -49,18 +49,15 @@ me = MarinaKally()
 
 ![Python](https://img.shields.io/badge/PYTHON-%230d1117.svg?style=for-the-badge&logo=python&logoColor=3776AB)
 ![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-%230d1117.svg?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![OpenCV](https://img.shields.io/badge/OPENCV-%230d1117.svg?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![MediaPipe](https://img.shields.io/badge/MEDIAPIPE-%230d1117.svg?style=for-the-badge&logo=google&logoColor=4FC3F7)
-![Streamlit](https://img.shields.io/badge/STREAMLIT-%230d1117.svg?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 ![Pandas](https://img.shields.io/badge/PANDAS-%230d1117.svg?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NUMPY-%230d1117.svg?style=for-the-badge&logo=numpy&logoColor=013243)
-
-![Tkinter](https://img.shields.io/badge/TKINTER-%230d1117.svg?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Streamlit](https://img.shields.io/badge/STREAMLIT-%230d1117.svg?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%230d1117.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-%230d1117.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/MYSQL-%230d1117.svg?style=for-the-badge&logo=mysql&logoColor=4FC3F7)
 ![Git](https://img.shields.io/badge/GIT-%230d1117.svg?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-%230d1117.svg?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Linux](https://img.shields.io/badge/LINUX-%230d1117.svg?style=for-the-badge&logo=linux&logoColor=FCC624)
-![MySQL](https://img.shields.io/badge/MYSQL-%230d1117.svg?style=for-the-badge&logo=mysql&logoColor=4FC3F7)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%230d1117.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 </div>
 
