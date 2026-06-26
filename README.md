@@ -15,7 +15,6 @@
 <!-- ===================== CONTACT BADGES ===================== -->
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-%230d1117.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marinakallybo)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=4FC3F7)](https://www.linkedin.com/in/marina-kally-695535252/)
 [![Gmail](https://img.shields.io/badge/GMAIL-%230d1117.svg?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:marinakally@gmail.com)
 
