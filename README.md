@@ -62,9 +62,6 @@ me = MarinaKally()
 
 <br/>
 
-| 🧠 **Machine Learning** | 🌐 **Web & Data** | ⚙️ **Python Automation** |
-|---|---|---|
-| Linear Regression, Feature Engineering, predictive modeling and data processing with scikit-learn and Pandas. | HTML, CSS, JavaScript, MySQL, Streamlit and interactive web interfaces. | Scripted workflows, process automation, GitHub Actions and Linux environment. |
 
 ---
 
