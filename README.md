@@ -3,13 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:2e6393&height=240&section=header&text=Marina%20Kally&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%E2%80%A2%20Backend%20%E2%80%A2%20Python%20Automation&descAlignY=58&descSize=18" width="100%" />
 </div>
 
-<!-- ===================== TYPING ===================== -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=22&duration=3000&pause=800&color=6899c4&center=true&vCenter=true&width=700&lines=Building+models+that+actually+predict+things;Automating+what+shouldn't+be+done+manually;Always+learning+something+new...)](https://git.io/typing-svg)
-
-</div>
-
 ---
 
 <!-- ===================== CONTACT BADGES ===================== -->
@@ -28,16 +21,12 @@
 ```python
 class MarinaKally:
     def __init__(self):
-        self.location  = "São Paulo, BR 🇧🇷"
-        self.focus     = ["Machine Learning", "Python Automation", "Web Development"]
-        self.stack     = ["Python", "scikit-learn", "Pandas", "Streamlit", "JavaScript"]
-        self.currently = "Building ML models and automating real-world processes"
-        self.next      = ["Process automation", "Deep Learning"]
+        self.location = "São Paulo, BR 🇧🇷"
+        self.learning = ["Python", "Data Science", "Machine Learning"]
+        self.next = ["SQL", "Deep Learning", "Automation"]
 
 me = MarinaKally()
 ```
-
-> 🧠 **Working with** ML models, Python automation and interactive web apps
 
 ---
 
